@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#311b92</color>
+    <color name="colorPrimaryDark">#000063</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorAccentLight">#FFFFFF</color>
+
+    <color name="colorYell">#ECC503</color>
+    <color name="colorYellPressed">#6FF8CF02</color>
+    <color name="colorYellCard">#6BF6F202</color>
+    <color name="colorRed">#DA0303</color>
+    <color name="colorRedPressed">#ADDA0303</color>
+    <color name="colorRedCard">#37F60505</color>
+    <color name="colorBlue">#1C33B1</color>
+    <color name="colorBluePressed">#0F1C60</color>
+    <color name="colorBlueCard">#8B032AFB</color>
+    <color name="colorGreen">#3CDA03</color>
+    <color name="colorGreenPressed">#217A01</color>
+    <color name="colorGreenCard">#8043EC06</color>
+    <color name="color505">#975F01</color>
+    <color name="color505Pressed">#573701</color>
+    <color name="color505Card">#99603D01</color>
+    <color name="color502">#FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorTravelPredictionCard">#260178</color>
+    <color name="colorTravelPredictionTitlesCard">#03A9F4</color>
+    <color name="colorTravelPredictionHistoryCard">#FFFFFF</color>
+    <color name="colorDivider">#EAEAEA</color>
+    <color name="color502Card">#BCEAEAEA</color>
+    <color name="colorGris">#6A6A6A</color>
+    <color name="colorNegro">#000000</color>
+
+    <color name="btn_base_bottom_selector_enable">#00c4e2</color>
+    <color name="btn_base_bottom_selector_disabled">#757575</color>
+
+    <color name="colorBottomNavBar">#304ffe</color>
+</resources>

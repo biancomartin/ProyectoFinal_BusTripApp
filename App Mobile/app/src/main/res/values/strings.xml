@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BusTripApp</string>
+    <string name="map_id">Mapa</string>
+    <string name="settings_id">Menu-Configuraciones</string>
+
+    <string name="api_key">AIzaSyDS62wITZA2AOkv-TDYD0oLaMy5FLzmTHY</string>
+
+    <string name="bottom_sheet_hint_origen">Selecciona el punto de partida</string>
+    <string name="bottom_sheet_hint_destino">Selecciona el lugar de destino</string>
+    <string name="bottom_sheet_button_buscar">Buscar</string>
+
+    <string name="travel_ride_data_distance_text">%1$s Kms</string>
+    <string name="settings_menu_line_selection_text">Linea %1$s seleccionada por defecto</string>
+    <string name="settings_menu_algorithm_selection_text">Algoritmo %1$s seleccionado por defecto</string>
+    <string name="settings_menu_item_view_history">Ver Rutas Disponibles</string>
+    <string name="settings_menu_item_view_removed_lines_selected_toast">Se removieron todas las lineas previamente seleccionadas, Por favor ingrese una linea para buscar una ubicación</string>
+    <string name="ride_data_label_algoritmo">Algoritmo :</string>
+    <string name="ride_data_label_linea_colectivo">Linea Colectivo:</string>
+    <string name="ride_data_label_tiempo_viaje">Tiempo viaje:</string>
+    <string name="ride_data_label_distancia">Distancia:</string>
+    <string name="settings_menu_item_removed_lines_saved">Remover Lineas Seleccionadas</string>
+    <string name="settings_menu_item_algorithms">Algoritmos</string>
+
+</resources>

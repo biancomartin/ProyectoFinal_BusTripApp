@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="icon" format="reference" />
+    <attr name="label" format="string" />
+    <attr name="uic_visibility" format="boolean" />
+    <attr name="color" format="color" />
+    <attr name="text" format="string" />
+    <declare-styleable name="SettingsMenuBigItemView">
+        <attr name="icon" />
+        <attr name="label" />
+        <attr name="uic_visibility" />
+        <attr name="color" />
+        <attr name="text" />
+    </declare-styleable>
+</resources>
